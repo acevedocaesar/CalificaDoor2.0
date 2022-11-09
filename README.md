@@ -8,11 +8,11 @@ El presente proyecto pretende crear una apliación web para una universidad cuyo
 
 La aplicación de este proyecto busca tener un impacto social, económico y de ahorro de tareas repetitivas facilitando a profesores, estudiantes y equipo auditor ventajas para conocer en tiempo real resultados y consolidados de notas.
 
-## 2.Objetivo General
+## 2. Objetivo General
 
 Desarrollar una apliación web que califique de manera automática las tareas hechas en código de los estudiantes de desarrollo de software
 
-## 2.1Objetivos Espeicicos
+## 2.1 Objetivos Espeicicos
 
     • Definir los requerimientos funcionales y no funcionales para las operaciones  que sean necesarias en el desarrollo del calificador.
     • Diseñar una arquitectura de datos que integre la información para el manejo de las tareas académicas que realizan los estudiantes.
