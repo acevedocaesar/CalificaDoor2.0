@@ -12,7 +12,7 @@ La aplicación de este proyecto busca tener un impacto social, económico y de a
 
 Desarrollar una apliación web que califique de manera automática las tareas hechas en código de los estudiantes de desarrollo de software
 
-## 2.1 Objetivos Espeicicos
+## 2.1 Objetivos Especficos
 
     • Definir los requerimientos funcionales y no funcionales para las operaciones  que sean necesarias en el desarrollo del calificador.
     • Diseñar una arquitectura de datos que integre la información para el manejo de las tareas académicas que realizan los estudiantes.
